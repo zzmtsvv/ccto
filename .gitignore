@@ -1,0 +1,51 @@
+wandb
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# vscode
+.vscode
+
+# mac
+.DS_Store
+
+# topxpy
+checkpoints
+images
+
+random_rolling
+
+check_properties.ipynb
+
+*.pt
+binary_dataset.pt
+clean_binary_dataset.pt
+clean_dataset.pt
+dataset.pt
+extended_clean_dataset.pt
+triplet_extended_clean_dataset.pt
+triplet_extended_clean_dataset4.pt
+
+directions
+material_change
+random_rolling
+
+aae_unconditional_generator.pt
+direction_eigenvector.pt
+eigenvectors_alexnet.pt
+z_tmp.pt
+z.pt
+
+movie.gif
+movie30.gif
+2movie.gif
+2movie30.gif
+2fpsmovie30.gif

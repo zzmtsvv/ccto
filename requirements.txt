@@ -1,0 +1,9 @@
+imageio
+matplotlib
+numpy
+pandas
+scipy
+torch
+torchvision
+tqdm
+wandb
